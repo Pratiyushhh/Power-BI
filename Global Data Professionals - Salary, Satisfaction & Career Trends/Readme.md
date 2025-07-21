@@ -58,7 +58,7 @@ The dashboard is fully interactive and designed for both analytical deep-dives a
 ![Cover](./Screenshots/Home.jpg)
 
 ### 📊 Salary Analysis
-![Salary](./Screenshots/salary.jpg)
+![Salary](./Screenshots/Salary.jpg)
 
 ### 💡 Key Takeaways
-![Insights](./Screenshots/Key Takeaways.jpg)
+![Insights](./Screenshots/Key%20Takeaways.jpg)

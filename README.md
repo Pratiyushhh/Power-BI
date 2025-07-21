@@ -23,7 +23,7 @@ I'm a data analytics enthusiast with hands-on experience in:
 - 📊 **Tools:** Power BI, DAX, Power Query
 - 📄 **Key Features:** Gender salary gap, career switch impact, education vs salary, global salary breakdown
 - 📥 **Dataset Source:** [AlexTheAnalyst GitHub](https://github.com/AlexTheAnalyst)
-- 🔗 [View README](./Global Data Professionals - Salary, Satisfaction & Career Trends/Readme.md)
+- 🔗 [View README](./Global%20Data%20Professionals%20-%20Salary,%20Satisfaction%20&%20Career%20Trends/Readme.md)
 
 ---
 
