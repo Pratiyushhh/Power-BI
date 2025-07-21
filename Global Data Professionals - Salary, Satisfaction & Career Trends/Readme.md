@@ -11,7 +11,7 @@ This project explores a global survey dataset of over 600 data professionals, wi
 - Gender dynamics in compensation and representation
 - Career switching patterns and their impact on earnings
 - Job satisfaction ratings across multiple dimensions
-- Motivations behind job changes (e.g. salary, remote work, WLB)
+- Motivations behind job changes (e.g. Salary, Remote Work, Work-Life Balance)
 
 The dashboard is fully interactive and designed for both analytical deep-dives and executive summary consumption.
 
@@ -48,7 +48,17 @@ The dashboard is fully interactive and designed for both analytical deep-dives a
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-> 
+### 🏠 Cover Page
+![Cover](./Screenshots/Cover.jpg)
 
+### 🏠 Home Page
+![Cover](./Screenshots/Home.jpg)
+
+### 📊 Salary Analysis
+![Salary](./Screenshots/salary.jpg)
+
+### 💡 Key Takeaways
+![Insights](./Screenshots/Key Takeaways.jpg)
