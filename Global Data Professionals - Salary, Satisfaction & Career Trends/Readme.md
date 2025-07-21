@@ -92,4 +92,4 @@ It combines interactive storytelling and DAX-driven metrics to answer questions 
 ---
 
 > ✨ This project is part of a growing Power BI portfolio focused on strategic insight and data storytelling.  
-> View more at [github.com/PratiyushKumar](https://github.com/PratiyushKumar).
+> View more at [github.com/PratiyushKumar](https://github.com/Pratiyushhh).
