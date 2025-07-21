@@ -1,64 +1,95 @@
 # 💼 Global Data Professionals: Salary, Satisfaction & Career Trends
 
-A Power BI dashboard that analyzes the career, compensation, and job satisfaction patterns of data professionals across the globe.
+A Power BI dashboard exploring real-world survey data from 600+ data professionals across the globe — designed to uncover actionable insights on compensation, career movement, job satisfaction, and workplace priorities.
 
 ---
 
 ## 📊 Overview
 
-This project explores a global survey dataset of over 600 data professionals, with key insights into:
-- Salary distribution by role, country, and education
-- Gender dynamics in compensation and representation
-- Career switching patterns and their impact on earnings
-- Job satisfaction ratings across multiple dimensions
-- Motivations behind job changes (e.g. Salary, Remote Work, Work-Life Balance)
+This project analyzes key workforce trends among global data professionals using a publicly sourced dataset from [AlexTheAnalyst](https://github.com/AlexTheAnalyst).  
+It combines interactive storytelling and DAX-driven metrics to answer questions like:
 
-The dashboard is fully interactive and designed for both analytical deep-dives and executive summary consumption.
+- What roles and education levels earn the highest salaries?
+- How do gender and geography impact compensation?
+- Are career switchers at a disadvantage?
+- What do data professionals value most when switching jobs?
+- Does high pay lead to high satisfaction?
 
 ---
 
 ## 📌 Key Insights
 
-- **Data Scientists** are the highest paid, averaging **$94K**
-- **PhD holders** earn the most among all education levels (~$147K)
-- **Female professionals** report slightly higher salaries than males, despite being underrepresented
-- **Career switchers** often earn on par with or more than direct-entry professionals
-- **Salary, remote flexibility, and work-life balance** top the list of job-switching factors
-- **High pay ≠ high satisfaction** — salary satisfaction remains moderate, even in top-paying roles
+- 💼 **Data Scientists** top the salary charts, averaging **$94K** globally  
+- 🎓 **PhD holders** command the highest education-based pay (~**$147K**)  
+- 👩‍💻 Despite being underrepresented, **females earn slightly more** than males on average  
+- 🔄 **Career switchers** earn on par with direct entrants — especially when paired with higher education  
+- 🏡 **Salary, remote work**, and **work-life balance** lead job change decisions  
+- 📉 **High compensation ≠ high satisfaction** — salary happiness remains modest even in high-income roles  
 
 ---
 
-## 🧠 Tools & Skills Demonstrated
+## 🧰 Tools & Skills Demonstrated
 
-- **Power BI**: Custom visuals, slicers, dynamic cards, tooltip insights
-- **DAX**: Measures for gender ratio, salary gap %, conditional insights
-- **Power Query**: Data cleaning, transformation, column normalization
-- **UX Design**: Navigation menus, slicer panels, interactive storytelling
-- **Data Storytelling**: Executive summary, KPI callouts, top insight highlights
-
----
-
-## 📂 Project Structure
-
-- `Project.pbix`: Main Power BI file (interactive report)
-- `Project.pdf`: Static snapshot of the dashboard (for quick review)
-- `Raw_Data.xlsx`: Original Dataset
-- `README.md`: Documentation
-- `Cover Page`: Professional report cover slide (optional branding)
+| Category         | Skills / Features Used                                 |
+|------------------|--------------------------------------------------------|
+| **Power BI**     | Slicers, page navigation, KPI cards, tooltip insights  |
+| **DAX**          | Custom measures: salary gap %, gender ratio, top N     |
+| **Power Query**  | Text normalization, value mapping, column cleanup      |
+| **UX Design**    | Clear page layout, drill-down logic, navigation button |
+| **Data Analysis**| Demographic trends, correlation insights, benchmarking |
 
 ---
 
+## 🗂 Project Structure
+
+- `Project.pbix` → Interactive dashboard  
+- `Project.pdf` → Static version for quick review  
+- `Raw_Data.xlsx` → Source dataset  
+- `Screenshots/` → Dashboard images for preview  
+- `README.md` → This documentation  
+
+---
 
 ## 📸 Dashboard Preview
 
-### 🏠 Cover Page
+### 🧾 Cover Page  
 ![Cover](./Screenshots/Cover.jpg)
 
-### 🏠 Home Page
-![Cover](./Screenshots/Home.jpg)
+### 🏠 Home Page  
+![Home](./Screenshots/Home.jpg)
 
-### 📊 Salary Analysis
+### 📊 Salary Analysis  
 ![Salary](./Screenshots/Salary.jpg)
 
-### 💡 Key Takeaways
+### 💡 Key Takeaways  
 ![Insights](./Screenshots/Key%20Takeaways.jpg)
+
+---
+
+## 🧠 Project Highlights
+
+- ✅ Insight-driven storytelling with business relevance  
+- ✅ Real-world dataset with diverse demographics  
+- ✅ Designed for stakeholder use: summary + detail views  
+- ✅ Strong visual clarity and interactivity  
+
+---
+
+## 🔗 Dataset Attribution
+
+> 📥 Dataset: Survey of 600+ data professionals conducted and shared publicly by [AlexTheAnalyst](https://github.com/AlexTheAnalyst) via LinkedIn, Instagram, and other channels.
+
+---
+
+## 👤 Author
+
+**Pratiyush Kumar**  
+📍 India | 🧠 UGC NET Qualified | 📊 Data Analytics | 💬 Power BI | DAX | SQL | Excel | BigQuery
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pratiyushh/)  
+📧 [Email](mailto:pratiyushpk@gmail.com)
+
+---
+
+> ✨ This project is part of a growing Power BI portfolio focused on strategic insight and data storytelling.  
+> View more at [github.com/PratiyushKumar](https://github.com/PratiyushKumar).

@@ -1,69 +1,75 @@
-# 📊 Power BI Portfolio by Pratiyush Kumar
+# 📊 Power BI Portfolio – Pratiyush Kumar
 
-Welcome to my Power BI Projects Repository — a curated collection of interactive dashboards built to analyze real-world datasets and communicate data-driven insights with clarity and precision.
+Welcome to my Power BI Projects Repository — a curated collection of **interactive dashboards** built using **real-world datasets** to uncover insights, solve problems, and communicate data stories with precision.
 
 ---
 
 ## 🚀 About Me
 
-I'm a data analytics enthusiast with hands-on experience in:
-- Power BI (DAX, Power Query, data modeling)
-- SQL, Excel, Python, BigQuery
-- Data storytelling & insight generation
-- Building dashboards that drive strategic decisions
+I'm a data analytics professional with experience in building insightful dashboards that drive business decisions. My strengths include:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pratiyushh/)
+- 📌 Power BI (Data modeling, DAX, Power Query)
+- 🧠 Data storytelling & insight generation
+- 🛠 SQL, Excel, Python, BigQuery
+- 📈 End-to-end BI workflow: extraction → transformation → visualization
 
----
-
-## 📁 Projects Included
-
-### 1. 🌐 Global Data Professionals – Salary, Satisfaction & Career Trends
-- 🔍 **Objective:** Analyze a real-world survey of 600+ data professionals to uncover patterns in pay, job satisfaction, career switching, and more.
-- 📊 **Tools:** Power BI, DAX, Power Query
-- 📄 **Key Features:** Gender salary gap, career switch impact, education vs salary, global salary breakdown
-- 📥 **Dataset Source:** [AlexTheAnalyst GitHub](https://github.com/AlexTheAnalyst)
-- 🔗 [View README](./Global%20Data%20Professionals%20-%20Salary,%20Satisfaction%20&%20Career%20Trends/Readme.md)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pratiyushh/)
 
 ---
 
-## 📚 Skills Demonstrated
+## 📁 Projects
 
-- ✅ Data transformation using **Power Query**
-- ✅ Insight generation using **DAX measures**
-- ✅ Visual storytelling using **interactive dashboards**
-- ✅ End-to-end BI workflow: data ingestion → modeling → insight delivery
+### 1. 🌐 **Global Data Professionals – Salary, Satisfaction & Career Trends**
+> A deep dive into the global data workforce — compensation, job satisfaction, gender gap, and career mobility.
 
----
-
-## 🧠 Why This Repo?
-
-This portfolio is designed to:
-- Demonstrate my ability to build professional-grade dashboards
-- Serve as a showcase for recruiters, hiring managers, and collaborators
-- Continue evolving as I build new domain-specific analytics projects
-
----
-
-## 📌 How to Use This Repo
-
-1. Browse the project folders
-2. Open `.pbix` files using Power BI Desktop
-3. Check individual README files for project-level context and insight summaries
-4. Download PDFs for quick previews
+- 🎯 **Objective:** Analyze responses from 600+ data professionals to extract meaningful trends and actionable insights.
+- 🧰 **Tools Used:** Power BI, DAX, Power Query
+- 📊 **Key Features:**  
+  - Gender-based salary comparison  
+  - Career switch impact  
+  - Salary vs Education level  
+  - Country-wise salary breakdown  
+  - Job satisfaction scores
+- 📥 **Dataset:** Real survey from [AlexTheAnalyst GitHub](https://github.com/AlexTheAnalyst)
+- 📄 [View Full Project README](./Global%20Data%20Professionals%20-%20Salary,%20Satisfaction%20&%20Career%20Trends/Readme.md)
 
 ---
 
-## 📅 Status
+## 🧰 Skills Demonstrated
 
-- 🚧 Always Improving  
-- 📁 New projects will be added regularly  
-- 📣 Feedback & suggestions are welcome!
+- ⚙️ Power Query for data transformation  
+- 🔍 DAX for advanced calculations & insights  
+- 🎨 Visual design for clarity and interactivity  
+- 📦 Structuring scalable BI projects with user-focused navigation
 
 ---
 
-## 👀 Looking to Collaborate?
+## 📌 How to Use This Repository
 
-Open to freelance analytics work, internship opportunities, or data storytelling challenges.
+1. Browse project folders to explore dashboards
+2. Open `.pbix` files using **Power BI Desktop**
+3. View `README.md` inside each folder for context & findings
+4. Download `.pdf` exports for static previews
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/pratiyushh/).
+---
+
+## 🚧 Status
+
+- ✅ **Actively maintained**
+- 🆕 More projects will be added regularly
+- 📬 Suggestions or feedback? Let’s chat!
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm open to:
+- 🧪 Freelance or contract analytics work
+- 🧠 Data visualization/storytelling challenges
+- 🧭 Internships or analytics roles in consulting, tech, or social impact
+
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/pratiyushh/) or drop an issue on GitHub.
+
+---
+
+> Thanks for checking out my portfolio. Hope something here sparks a conversation.
