@@ -47,29 +47,31 @@ The dashboard delivers **data-backed insights** and **executive-level recommenda
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
+```
 Telecom Customer Churn Analysis/
-├── Telecom Customer Churn Analysis.pbix # Power BI dashboard file
-├── Telecom Customer Churn Analysis.pdf # Final exported report
-├── Assets/ # Raw data and dictionary
-│ ├── telecom_customer_churn.csv
-│ ├── telecom_data_dictionary.csv
-│ └── telecom_zipcode_population.csv
-├── Screenshots/ # Page previews
-│ ├── Cover.jpg
-│ ├── Overview.jpg
-│ ├── Churn Demographics.jpg
-│ ├── Churn Drivers.jpg
-│ ├── Revenue Risk.jpg
-│ └── Key Findings.jpg
-└── README.md
+├── Telecom Customer Churn Analysis.pbix         # Power BI dashboard file
+├── Telecom Customer Churn Analysis.pdf          # Final exported report
+├── Assets/                                      # Raw data and data dictionary
+│   ├── telecom_customer_churn.csv
+│   ├── telecom_data_dictionary.csv
+│   └── telecom_zipcode_population.csv
+├── Screenshots/                                 # Page previews for GitHub display
+│   ├── Cover.jpg
+│   ├── Overview.jpg
+│   ├── Churn Demographics.jpg
+│   ├── Churn Drivers.jpg
+│   ├── Revenue Risk.jpg
+│   └── Key Findings.jpg
+└── README.md                                     # This file
+```
 
 ---
 
 ## 📦 Dataset Summary
 
-- **Source**: IBM Cognos Analytics via [Maven Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)
+- **Source**: [IBM Cognos Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)
 - **License**: Public Domain
 - **Format**: CSV
 - **Records**: 7,043 customers
@@ -105,7 +107,7 @@ Telecom Customer Churn Analysis/
 Hi, I'm **Pratiyush Kumar**, a data analyst passionate about solving real-world problems using Power BI, SQL, DAX, and data storytelling.
 
 📎 [LinkedIn](https://www.linkedin.com/in/pratiyushh)  
-📁 [Portfolio](https://github.com/Pratiyushhh/Power-BI)
+📁 [GitHub Portfolio](https://github.com/Pratiyushhh/Power-BI)
 
 ---
 
