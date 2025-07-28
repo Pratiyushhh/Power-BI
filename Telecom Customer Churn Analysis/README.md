@@ -71,7 +71,7 @@ Telecom Customer Churn Analysis/
 
 ## 📦 Dataset Summary
 
-- **Source**: [IBM Cognos Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)
+- **Source**: [IBM Cognos Analytics via Maven Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)
 - **License**: Public Domain
 - **Format**: CSV
 - **Records**: 7,043 customers
