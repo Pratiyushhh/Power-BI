@@ -1,82 +1,81 @@
-# 📉 Telecom Customer Churn Analysis – Identifying Revenue Risk & Strategic Retention Opportunities
+# 📉 Telecom Customer Churn Analysis – Identifying Revenue Risk & Retention Opportunities
 
-A Power BI dashboard project analyzing customer churn behavior, revenue impact, and strategic retention opportunities for a fictional telecom company serving 7,000+ customers across California.
+A Power BI dashboard project analyzing customer churn behavior, revenue impact, and strategic retention levers for a fictional telecom company serving over **7,000 customers** across California.
 
 ---
 
-## 📊 Overview
+## 📊 Project Overview
 
-This project explores real-world churn patterns and helps answer:
+This project explores real-world churn patterns and provides data-backed answers to critical business questions:
 
 - Who is churning — and what do they look like?
-- What are the top reasons for customer churn?
-- Are we losing **high-value, long-tenure customers**?
-- What strategies can reduce churn and protect revenue?
+- Are we losing **high-value or long-tenure customers**?
+- What are the primary churn drivers?
+- Which strategic actions can help reduce churn and protect revenue?
 
-The dashboard delivers **data-backed insights** and **executive-level recommendations**, built for business decision-makers.
+The final dashboard is designed for **business leaders, product managers, and retention teams** — delivering insights, segmentation, and **executive-ready recommendations**.
 
 ---
 
 ## 💡 Key Insights
 
-- **$3.6M+ in revenue lost**, with 50% of it from the **top 25% of customers**
-- **Short-tenure, monthly contract users** churn the most
-- **Competitor-driven churn** dominates — better pricing, speed, and data
-- Customers with **<3 services** or no add-ons churn more
-- **Older users (50+)** and **manual payers** churn at elevated rates
+- 💸 Over **$3.6M in lost revenue**, with **50% attributed to the top 25% of customers**
+- 📉 Churn rates spike for **monthly contract holders**, especially with low tenure
+- 📌 Churn is primarily **competitor-driven** — due to pricing, data limits, and service reliability
+- ⚠️ Customers with **<3 services**, **no add-ons**, or **manual billing** are at higher risk
+- 👴 Seniors aged **50+** show elevated churn trends, especially without digital payment methods
 
 ---
 
-## 📌 Recommendations
+## 🎯 Strategic Recommendations
 
-- 🎯 Target **high-value churn risks** with retention offers and loyalty programs
-- 💡 Promote **value-added bundles** (Tech Support, Protection, Security)
-- 📊 Reassess **fiber pricing and service quality**
-- 💳 Incentivize **paperless billing** to reduce churn from manual payers
-- 📢 Launch **win-back campaigns** for competitor-exit churners
-
----
-
-## 🛠 Tools & Skills Demonstrated
-
-- **Power BI** – Dashboards, slicers, navigation, tooltip cards
-- **DAX** – KPI metrics, churn %, segmentation, revenue logic
-- **Power Query** – Data shaping, transformation, normalization
-- **Data Storytelling** – Executive summaries, insight cards, strategy framing
-- **UX Design** – Page flow, iconography, interactive storytelling
+- 🎁 Deploy targeted **loyalty offers** for high-value churn-risk segments  
+- 🔒 Promote **value-added bundles** (Tech Support, Protection, Security) to increase retention  
+- 🧾 Encourage **paperless billing** via discounts to reduce churn in manual payers  
+- 💬 Launch **win-back campaigns** focused on competitor-driven churners  
+- 🧪 Re-evaluate **fiber pricing & underutilized add-on services** to drive perceived value
 
 ---
 
-### 📂 Project Structure
+## 🛠️ Tools & Skills Demonstrated
+
+- **Power BI** – dashboard architecture, slicers, bookmarks, page navigation  
+- **DAX** – calculated KPIs, dynamic measures, churn %, revenue segmentation  
+- **Power Query** – advanced shaping, joins, cleanup of multi-source data  
+- **Data Storytelling** – strategic framing, insight cards, executive summary  
+- **UX Design** – intuitive page layouts, slicer logic, iconography, and tooltips
+
+---
+
+## 📂 Folder Structure
 
 ```
 Telecom Customer Churn Analysis/
-├── Telecom Customer Churn Analysis.pbix         # Power BI dashboard file
-├── Telecom Customer Churn Analysis.pdf          # Final exported report
-├── Assets/                                      # Raw data and data dictionary
-│   ├── telecom_customer_churn.csv
-│   ├── telecom_data_dictionary.csv
-│   └── telecom_zipcode_population.csv
-├── Screenshots/                                 # Page previews for GitHub display
-│   ├── Cover.jpg
-│   ├── Overview.jpg
-│   ├── Churn Demographics.jpg
-│   ├── Churn Drivers.jpg
-│   ├── Revenue Risk.jpg
-│   └── Key Findings.jpg
-└── README.md                                     # This file
+├── Telecom Customer Churn Analysis.pbix # Power BI dashboard file
+├── Telecom Customer Churn Analysis.pdf # Final exported report
+├── Assets/ # Raw data & metadata
+│ ├── telecom_customer_churn.csv
+│ ├── telecom_data_dictionary.csv
+│ └── telecom_zipcode_population.csv
+├── Screenshots/ # Dashboard page previews
+│ ├── Cover.jpg
+│ ├── Overview.jpg
+│ ├── Churn Demographics.jpg
+│ ├── Churn Drivers.jpg
+│ ├── Revenue Risk.jpg
+│ └── Key Findings.jpg
+└── README.md # This file
 ```
 
 ---
 
 ## 📦 Dataset Summary
 
-- **Source**: [IBM Cognos Analytics via Maven Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)
-- **License**: Public Domain
-- **Format**: CSV
-- **Records**: 7,043 customers
-- **Fields**: 39
-- **Structure**: Multi-table (Customers, Zip Code Population, Data Dictionary)
+- **Source:** [IBM Cognos Analytics via Maven Analytics](https://maven-datasets.s3.amazonaws.com/Telecom+Customer+Churn/Telecom+Customer+Churn.zip)  
+- **License:** Public Domain  
+- **Format:** CSV  
+- **Records:** 7,043 customers  
+- **Tables:** Customers, Population (Zip), Data Dictionary
 
 ---
 
@@ -88,32 +87,36 @@ Telecom Customer Churn Analysis/
 ### 📊 Executive Summary – Churn & Revenue Snapshot  
 ![Overview](./Screenshots/Overview.jpg)
 
-### 👥 Who’s Churning? Demographic & Payment Patterns  
+### 👥 Who’s Churning? Demographics & Billing Patterns  
 ![Churn Demographics](./Screenshots/Churn%20Demographics.jpg)
 
-### ⚙️ What’s Driving Churn? Services, Internet Plans & Offers  
+### ⚙️ What’s Driving Churn? Service Plans, Add-ons & Billing  
 ![Churn Drivers](./Screenshots/Churn%20Drivers.jpg)
 
-### 💸 High-Value Churn: Revenue Impact & Strategic Risk  
+### 💸 Revenue Risk – High-Value Churn Segments  
 ![Revenue Risk](./Screenshots/Revenue%20Risk.jpg)
 
-### 🧠 Key Findings & Retention Strategy  
+### 🧠 Retention Strategy – Key Findings  
 ![Key Findings](./Screenshots/Key%20Findings.jpg)
 
 ---
 
 ## 👨‍💼 About Me
 
-Hi, I'm **Pratiyush Kumar**, a data analyst passionate about solving real-world problems using Power BI, SQL, DAX, and data storytelling.
+Hi, I’m **Pratiyush Kumar** — a Power BI and data analytics professional with a background in software development, now focused on uncovering business value through dashboards, data models, and storytelling.
 
 📎 [LinkedIn](https://www.linkedin.com/in/pratiyushh)  
 📁 [GitHub Portfolio](https://github.com/Pratiyushhh/Power-BI)
 
 ---
 
-## 📬 Feedback
+## 💬 Feedback & Collaboration
 
-Open to feedback, collaboration, and freelance/consulting opportunities.  
-Feel free to connect or tag me on LinkedIn. Let’s build something impactful.
+I’m open to:
+- Freelance Power BI projects or dashboard redesigns  
+- Entry-level consulting/BI analyst roles  
+- Collaboration on analytics challenges or storytelling projects
+
+Feel free to reach out or submit a GitHub issue. Thanks for stopping by!
 
 ---

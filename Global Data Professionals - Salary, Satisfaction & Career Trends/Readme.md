@@ -1,95 +1,105 @@
-# 💼 Global Data Professionals: Salary, Satisfaction & Career Trends
+# 💼 Global Data Professionals – Salary, Satisfaction & Career Trends
 
-A Power BI dashboard exploring real-world survey data from 600+ data professionals across the globe — designed to uncover actionable insights on compensation, career movement, job satisfaction, and workplace priorities.
-
----
-
-## 📊 Overview
-
-This project analyzes key workforce trends among global data professionals using a publicly sourced dataset from [AlexTheAnalyst](https://github.com/AlexTheAnalyst).  
-It combines interactive storytelling and DAX-driven metrics to answer questions like:
-
-- What roles and education levels earn the highest salaries?
-- How do gender and geography impact compensation?
-- Are career switchers at a disadvantage?
-- What do data professionals value most when switching jobs?
-- Does high pay lead to high satisfaction?
+A Power BI dashboard exploring real-world survey data from 600+ global data professionals to uncover actionable insights on **compensation**, **career movement**, **job satisfaction**, and **workplace priorities**.
 
 ---
 
-## 📌 Key Insights
+## 📊 Project Overview
 
-- 💼 **Data Scientists** top the salary charts, averaging **$94K** globally  
-- 🎓 **PhD holders** command the highest education-based pay (~**$147K**)  
-- 👩‍💻 Despite being underrepresented, **females earn slightly more** than males on average  
-- 🔄 **Career switchers** earn on par with direct entrants — especially when paired with higher education  
-- 🏡 **Salary, remote work**, and **work-life balance** lead job change decisions  
-- 📉 **High compensation ≠ high satisfaction** — salary happiness remains modest even in high-income roles  
+This project analyzes a global dataset shared by [AlexTheAnalyst](https://github.com/AlexTheAnalyst), focusing on trends across roles, education, gender, geography, and career pathways.
 
----
-
-## 🧰 Tools & Skills Demonstrated
-
-| Category         | Skills / Features Used                                 |
-|------------------|--------------------------------------------------------|
-| **Power BI**     | Slicers, page navigation, KPI cards, tooltip insights  |
-| **DAX**          | Custom measures: salary gap %, gender ratio, top N     |
-| **Power Query**  | Text normalization, value mapping, column cleanup      |
-| **UX Design**    | Clear page layout, drill-down logic, navigation button |
-| **Data Analysis**| Demographic trends, correlation insights, benchmarking |
+The dashboard is designed for **business leaders, HR teams, and workforce strategists** who want to understand:
+- What roles and skills yield the highest compensation?
+- How do career switchers fare in the industry?
+- What drives job satisfaction and career moves?
+- Are gender gaps present — and where?
+- How do education levels impact earnings?
 
 ---
 
-## 🗂 Project Structure
+## 💡 Key Insights
 
-- `Project.pbix` → Interactive dashboard  
-- `Project.pdf` → Static version for quick review  
-- `Raw_Data.xlsx` → Source dataset  
-- `Screenshots/` → Dashboard images for preview  
-- `README.md` → This documentation  
+- 💼 **Data Scientists** earn the most, averaging **$94K globally**  
+- 🎓 **PhD holders** command the highest median salaries — up to **$147K**  
+- 👩‍💻 **Female professionals** earn slightly more on average, despite being underrepresented  
+- 🔄 **Career switchers** earn comparably to direct entrants — especially with higher education  
+- 🧘‍♂️ **Remote work, salary**, and **work-life balance** top job-change motivators  
+- ❗**High income doesn’t guarantee satisfaction** — salary satisfaction remains modest even in higher-paying roles
+
+---
+
+## 🎯 Strategic Takeaways
+
+- 📍 Organizations should invest in **non-monetary benefits** (remote, balance, culture) to retain top talent  
+- 📈 Career support for **switchers** is essential, as they show high mobility and potential  
+- 🟰 Gender parity isn’t just possible — it’s **already present** in compensation (in this sample)  
+- 🎓 **Education** plays a strong role in shaping salary expectations and satisfaction
+
+---
+
+## 🛠 Tools & Skills Demonstrated
+
+| Category         | Skills / Features Used                                   |
+|------------------|----------------------------------------------------------|
+| **Power BI**     | Page navigation, drill-through, slicers, tooltip insights |
+| **DAX**          | Custom salary buckets, gap % calculations, switcher flags |
+| **Power Query**  | Data cleansing, value mapping, field normalization       |
+| **UX Design**    | Executive layout, slicer flow, consistent design language |
+| **Data Analysis**| Salary segmentation, gender ratio trends, education benchmarking |
+
+---
+
+## 📂 Project Structure
+
+```
+Global Data Professionals/
+├── Global Data Professionals.pbix # Power BI dashboard file
+├── Global Data Professionals.pdf # Exported static report
+├── Raw_Data.xlsx # Source dataset
+├── Screenshots/ # Dashboard previews
+│ ├── Cover.jpg
+│ ├── Home.jpg
+│ ├── Salary.jpg
+│ └── Insights.jpg
+└── README.md # This file
+```
 
 ---
 
 ## 📸 Dashboard Preview
 
-### 🧾 Cover Page  
-![Cover](./Screenshots/Cover.jpg)
-
 ### 🏠 Home Page  
 ![Home](./Screenshots/Home.jpg)
 
-### 📊 Salary Analysis  
+### 💰 Salary Trends – Role, Gender, Education  
 ![Salary](./Screenshots/Salary.jpg)
 
-### 💡 Key Takeaways  
-![Insights](./Screenshots/Key%20Takeaways.jpg)
-
----
-
-## 🧠 Project Highlights
-
-- ✅ Insight-driven storytelling with business relevance  
-- ✅ Real-world dataset with diverse demographics  
-- ✅ Designed for stakeholder use: summary + detail views  
-- ✅ Strong visual clarity and interactivity  
+### 🧠 Key Insights & Takeaways  
+![Insights](./Screenshots/Insights.jpg)
 
 ---
 
 ## 🔗 Dataset Attribution
 
-> 📥 Dataset: Survey of 600+ data professionals conducted and shared publicly by [AlexTheAnalyst](https://github.com/AlexTheAnalyst) via LinkedIn, Instagram, and other channels.
+- **Source:** [AlexTheAnalyst – LinkedIn Survey](https://github.com/AlexTheAnalyst)  
+- **Sample Size:** 630+ global data professionals  
+- **Fields:** Job role, education, gender, compensation, satisfaction, job preferences  
+- **License:** Public / Creative Commons
 
 ---
 
-## 👤 Author
+## 👨‍💼 About Me
 
-**Pratiyush Kumar**  
-📍 India | 🧠 UGC NET Qualified | 📊 Data Analytics | 💬 Power BI | DAX | SQL | Excel | BigQuery
+Hi, I’m **Pratiyush Kumar** — a data analyst and Power BI consultant passionate about creating insight-driven dashboards with real-world business value.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pratiyushh/)  
-📧 [Email](mailto:pratiyushpk@gmail.com)
+📌 Transitioned from software development into analytics  
+📊 Skilled in Power BI, DAX, Power Query, SQL, Excel, BigQuery  
+🧠 UGC NET Qualified | Completed Deloitte Analytics Simulation  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pratiyushh)  
+📬 [Email](mailto:pratiyushpk@gmail.com)
 
 ---
 
-> ✨ This project is part of a growing Power BI portfolio focused on strategic insight and data storytelling.  
-> View more at [github.com/Pratiyushhh](https://github.com/Pratiyushhh).
+> 🚀 This is part of an evolving portfolio focused on real-world analytics challenges, stakeholder-ready dashboards, and data storytelling.  
+> View more at: [github.com/Pratiyushhh](https://github.com/Pratiyushhh)
