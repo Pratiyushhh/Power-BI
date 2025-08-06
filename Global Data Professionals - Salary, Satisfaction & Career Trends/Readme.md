@@ -75,7 +75,7 @@ Global Data Professionals/
 ![Salary](./Screenshots/Salary.jpg)
 
 ### 🧠 Key Insights & Takeaways  
-![Insights](./Screenshots/Insights.jpg)
+![Insights](./Screenshots/Key%20Takeaways.jpg)
 
 ---
 
